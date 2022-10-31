@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ritwik
-- 👀 I’m working in circuit Optimization algorithms
+- 👀 I’m working in Circuit Optimization Algorithms under Dr. Zia Abbas
 - 🌱 I’m currently learning python scripts & ML Algorithms
 - 💞️ I’m looking to collaborate on ...(N/A)
 - 📫 How to reach me : ritwik.goswami@research.iiit.ac.in
